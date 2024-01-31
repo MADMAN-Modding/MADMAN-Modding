@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [EmulatorJS Web Frontend](https://github.com/MADMAN-Modding/EPWF)
 
-- 🌱 I’m currently learning **Java and MySQL**
+- 🌱 I’m currently learning **Java, MySQL, and AJAX**
 
 - 📫 How to reach me **mad@kmdtech.net**
 
