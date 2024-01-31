@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Java and MySQL**
 
-- 💬 Ask me about **Web Frontend**
-
 - 📫 How to reach me **mad@kmdtech.net**
 
 - ⚡ Fun fact **I'm a linux and metal head**
