@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Falcons Esports Overlay](https://github.com/HeinzEric/FalconsEsportsOverlays) & [Web-yt-dlp](https://github.com/MADMAN-Modding/Web-yt-dlp)
 
-- 🌱 I’m currently learning **Java, MySQL, and AJAX**
+- 🌱 I’m currently learning **Java, Dart, and Flutter**
 
 - 📫 How to reach me **mad@kmdtech.net**
 
