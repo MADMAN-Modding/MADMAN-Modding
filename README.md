@@ -3,7 +3,7 @@
 
 ![madman-modding](https://komarev.com/ghpvc/?username=madman-modding&label=Profile%20views&color=0e75b6&style=flat)
 
-[![madman-modding](https://github-profile-trophy.vercel.app/?username=madman-modding&theme=discord&title=MultipleLangTrophy)](https://github.com/ryo-ma/github-profile-trophy)
+[![madman-modding](https://github-profile-trophy.vercel.app/?username=madman-modding&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![madman-modding](https://github-readme-stats.vercel.app/api/top-langs?username=madman-modding&show_icons=true&locale=en&layout=compact&theme=vue-dark)
 
