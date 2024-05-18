@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Lots**
 
-- 📫 How to reach me **mad@kmdtech.net or m.a.d.2334 on discord!**
+- 📫 How to reach me **mad@kmdtech.net or madman_modding on discord!**
 
 - ⚡ Fun fact **I'm a Linux and metal head**
 
