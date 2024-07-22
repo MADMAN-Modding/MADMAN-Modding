@@ -1,4 +1,4 @@
-z<h1 align="center">Hi 👋, I'm MADMAN-Modding</h1>
+<h1 align="center">Hi 👋, I'm MADMAN-Modding</h1>
 <h3 align="center">A dev who loves learning and working on frontend and backend, I prefer backend</h3>
 
 ![madman-modding](https://komarev.com/ghpvc/?username=madman-modding&label=Profile%20views&color=0e75b6&style=flat)
