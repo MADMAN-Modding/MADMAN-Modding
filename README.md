@@ -7,7 +7,7 @@
 
 ![madman-modding](https://github-readme-stats.vercel.app/api/top-langs?username=madman-modding&show_icons=true&locale=en&layout=compact&theme=vue-dark)
 
-- 🔭 I’m currently working on [Falcons Esports Overlay](https://github.com/MADMAN-Modding/FalconsEsportsOverlays) & [WebTube](https://github.com/MADMAN-Modding/WebTube) and many more.
+- 🔭 I’m currently working on [Falcons Esports Overlay](https://github.com/MADMAN-Modding/FalconsEsportsOverlays), [WebTube](https://github.com/MADMAN-Modding/WebTube), and many more.
 
 - 🌱 I’m currently learning **Lots**
 
