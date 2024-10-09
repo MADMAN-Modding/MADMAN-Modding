@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Falcons Esports Overlay](https://github.com/MADMAN-Modding/FalconsEsportsOverlays), [WebTube](https://github.com/MADMAN-Modding/WebTube), and many more.
 
-- 🌱 I’m currently learning **Lots**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **mad@kmdtech.net or madman_modding on discord!**
 
