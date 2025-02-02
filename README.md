@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MADMAN-Modding</h1>
-<h3 align="center">A dev who loves learning and working on frontend and backend, I prefer backend</h3>
+<h3 align="center">A dev who loves working with low-level languages</h3>
 
 ![madman-modding](https://komarev.com/ghpvc/?username=madman-modding&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -13,7 +13,10 @@
 
 - 📫 How to reach me **mad@kmdtech.net or madman_modding on discord!**
 
-- ⚡ Fun fact **I'm a Linux and metal head**
+- ⚡ Fun fact **I'm a huge Legend of Zelda fan and metal head**
+
+![madman-modding](https://github-readme-stats.vercel.app/api?username=madman-modding&show_icons=true&locale=en&theme=vue-dark)
+![madman-modding](https://github-readme-streak-stats.herokuapp.com/?user=madman-modding&theme=vue-dark)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -88,6 +91,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
-
-![madman-modding](https://github-readme-stats.vercel.app/api?username=madman-modding&show_icons=true&locale=en&theme=vue-dark)
-![madman-modding](https://github-readme-streak-stats.herokuapp.com/?user=madman-modding&theme=vue-dark)
