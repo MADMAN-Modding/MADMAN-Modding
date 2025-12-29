@@ -7,11 +7,11 @@
 
 ![madman-modding](https://github-readme-stats.vercel.app/api/top-langs?username=madman-modding&show_icons=true&locale=en&layout=compact&theme=vue-dark)
 
-- 🔭 I’m currently working on [Falcons Esports Overlays](https://github.com/MADMAN-Modding/FalconsEsportsOverlays), [FRC 2025](https://github.com/DCRoboFalcons8179/2025), and many more.
+- 🔭 I’m currently working on [Falcons Esports Overlays](https://github.com/MADMAN-Modding/FalconsEsportsOverlays), [I Forgot My Deck](https://github.com/MADMAN-Modding/I-Forgot-My-Deck), and many more.
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **mad@kmdtech.net or madman_modding on discord!**
+- 📫 How to reach me **m@dehl.us or madman_modding on discord!**
 
 - ⚡ Fun fact **I'm a huge Legend of Zelda fan and metal head**
 
