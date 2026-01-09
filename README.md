@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm MADMAN-Modding</h1>
 <h3 align="center">A dev who loves working with low-level languages</h3>
 
-![madman-modding](https://komarev.com/ghpvc/?username=madman-modding&label=Profile%20views&color=0e75b6&style=flat)
-
-[![madman-modding](https://github-profile-trophy.vercel.app/?username=madman-modding&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-![madman-modding](https://github-readme-stats.vercel.app/api/top-langs?username=madman-modding&show_icons=true&locale=en&layout=compact&theme=vue-dark)
-
-- 🔭 I’m currently working on [Falcons Esports Overlays](https://github.com/MADMAN-Modding/FalconsEsportsOverlays), [I Forgot My Deck](https://github.com/MADMAN-Modding/I-Forgot-My-Deck), and many more.
+- 🔭 I’m currently working on [Creative Zone](https://github.com/MADMAN-Modding/CreativeZone), [I Forgot My Deck](https://github.com/MADMAN-Modding/I-Forgot-My-Deck), and many more.
 
 - 🌱 I’m currently learning **Rust**
 
@@ -15,13 +9,10 @@
 
 - ⚡ Fun fact **I'm a huge Legend of Zelda fan and metal head**
 
-![madman-modding](https://github-readme-stats.vercel.app/api?username=madman-modding&show_icons=true&locale=en&theme=vue-dark)
-![madman-modding](https://github-readme-streak-stats.herokuapp.com/?user=madman-modding&theme=vue-dark)
-
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=rust" style="height: 40px;" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="height: 40px;" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 40px;" alt="java logo"  />
   <img width="12" />
