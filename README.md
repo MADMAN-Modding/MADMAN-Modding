@@ -1,14 +1,7 @@
-<h1 align="center">Hi 👋, I'm MADMAN-Modding</h1>
-<h3 align="center">A dev who loves working with low-level languages</h3>
+<h1 align="center">Hi, I'm MADMAN-Modding</h1>
 
-- 🔭 I’m currently working on [Creative Zone](https://github.com/MADMAN-Modding/CreativeZone), [I Forgot My Deck](https://github.com/MADMAN-Modding/I-Forgot-My-Deck), and many more.
-
-- 🌱 I’m currently learning **Rust**
-
-- 📫 How to reach me **m@dehl.us or madman_modding on discord!**
-
-- ⚡ Fun fact **I'm a huge Legend of Zelda fan and metal head**
-
+- How to reach me **m@dehl.us or madman_modding on discord!**
+  
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
