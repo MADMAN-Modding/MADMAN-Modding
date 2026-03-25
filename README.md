@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm MADMAN-Modding</h1>
 
-- How to reach me **m@dehl.us or madman_modding on discord!**
+- How to reach me: **m@dehl.us or madman_modding on discord!**
   
 <h3 align="left">Languages and Tools:</h3>
 
