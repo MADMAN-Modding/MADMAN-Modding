@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MADMAN-Modding</h1>
+<h1 align="center">Hi, I'm MADMAN-Modding<br>Solving problems big and small, one creation at a time</h1>
 
 - How to reach me: **m@dehl.us or madman_modding on discord!**
   
